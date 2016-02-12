@@ -1,0 +1,24 @@
+{
+  "name": "njs-util",
+  "version": "1.0.0",
+  "description": "Utility for NJS Runtime, Compiler, RPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavel-vo/njs-util.git"
+  },
+  "keywords": [
+    "njs",
+    "njs-compiler",
+    "njs-runtime"
+  ],
+  "author": "Pavel Nikotin <mail@intelin.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pavel-vo/njs-util/issues"
+  },
+  "homepage": "https://github.com/Pavel-vo/njs-util#readme"
+}
